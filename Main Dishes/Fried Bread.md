@@ -12,6 +12,7 @@ Large Batch            | Small Batch
 - oil in warm water    | - little in water
 
 >_
+
 1. Make a well in flour, Knead, 
 2. put oil on bread. 
 3. Let rise 30-45 minutes. 
