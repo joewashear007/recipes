@@ -42,4 +42,4 @@ _This is a half batch, make around 70 peroggis_
 
 8. Cook seven peroggis at a time in boiling salted water. As soon as one rises to the surface, cook fo 2 minutes longer. Place in plan with melted butter so they don't stick. Transfer to bag afer ever 3 batches. Change out water when it is become dirty or yucky
 
-
+9. Now is good time to refrigerate/freeze. Serve again by frying in butter till browned.
