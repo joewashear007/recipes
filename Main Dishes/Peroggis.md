@@ -52,5 +52,5 @@ Directions
 
 Notes
 ---------------------------------------------------------
-* Original Author: Jean Smerklo
+* Originally From Jean Smerklo
 * Eaten Around Easter

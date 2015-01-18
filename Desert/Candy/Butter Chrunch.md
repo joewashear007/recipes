@@ -23,5 +23,5 @@ Directions
 
 Notes
 ---------------------------------------------------------
-* Original Author: Jean Smerklo
+* Originally From Jean Smerklo
 * Easter Candy Recipe
