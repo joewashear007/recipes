@@ -10,7 +10,6 @@ Ingredients
 * 1 vanilla bean (split and scraped of seeds), 1 teaspoon vanilla extract, or 1 teaspoon of desired flavor
 * 1 1/2 cups heavy cream
 
-
 Directions
 -----------------------------------------------
 
@@ -26,6 +25,20 @@ Directions
 10. Chill completely: Leave the ice cream base over the ice water bath, stirring occasionally, until it's completely chilled. This will take about 20 minutes. Alternatively, cover the bowl with the base and chill in the fridge for 3 hours or overnight.
 11. Churn the ice cream base: Transfer the ice cream base to the bowl of your ice cream machine. Churn until the base has thickened to a consistency somewhere between a very thick milkshake and soft-serve ice cream. In most ice cream makers, this takes about 20 minutes — check the instructions for your particular machine.
 12. Freeze the ice cream until solid: Transfer the thickened ice cream to a freezer container. Press a piece of wax paper against the surface of the ice cream to prevent ice crystals from forming and freeze until solid, at least 4 hours. The ice cream will keep in the freezer for about 2 weeks before becoming icy.
+
+Variations
+---------------------------------------------------------
+
+### Chocolate
+#### Ingredients (all the above, plus the following)
+
+* 4oz semi-sweet chocolate chips
+* 3/4 cups sugar (total)
+* 1/2 cup unsweetened cocoa powder
+
+#### Directions
+Follow the above directions except:
+* **After Step 4. **: Whisk in cocoa powered (sifted) to the warm milk, then add to egg mixture. Add the chocolate chips to the egg mixture, then continue with cooking the custard.
 
 
 Notes
