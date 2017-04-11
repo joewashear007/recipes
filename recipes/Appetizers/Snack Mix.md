@@ -1,6 +1,6 @@
 Snack Mix
 ========================================================
-_Yeilds about four 1 gallon bags_
+_Yields about four 1 gallon bags_
 
 Ingredient
 ----------------------------------------------------------
@@ -9,7 +9,7 @@ Ingredient
 	* Wheat Chex
 	* Corn Chex
 	* Cheerios
-	* Or other box(es) of cereal (sweet cheerios/sweat checks/etc)
+	* Or other box(es) of cereal (sweet cheerios/sweat checks/etc.)
 * Bag of the following:
 	* Stick Pretzels
 	* Gold Fish

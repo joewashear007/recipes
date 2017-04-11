@@ -7,10 +7,10 @@ Ingredient
 * 2 1/2 t. Baking Powered
 * 1 tsp. salt
 * 1 cup sugar
-* 1 cup mashed potatoes ( ~ 15 oz can )
+* 1 cup mashed potatoes ( ~ 15 oz. can )
 * 1/2 cup milk
 * 1 egg
-* 2 Tbls. melted butter
+* 2 Tbsp. melted butter
 
 Directions
 ------------------------------------

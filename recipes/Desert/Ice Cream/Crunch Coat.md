@@ -8,7 +8,7 @@ Ingredients
 * ¾ cup sprinkles
 * 2 crushed sugar cone (Heath bit size)
 * ½ cup peanuts
-* 2 tbsp of sugar
+* 2 Tbsp. of sugar
 
 Directions
 -----------------------------------------------
