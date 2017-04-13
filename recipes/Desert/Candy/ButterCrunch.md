@@ -25,6 +25,10 @@ Directions
 7. Top with remaining chocolate and then nuts. (The chocolate should melt)
 8. Refrigerate till hardened. Break into pieces and enjoy!
 
+Pictures
+-----------------------------------------------
+![alt-text](./ButterCrunch.jpg "Original Recipe")
+
 Notes
 ---------------------------------------------------------
 * Originally from Jean Smerklo
