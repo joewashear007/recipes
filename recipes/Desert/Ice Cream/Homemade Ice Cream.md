@@ -1,4 +1,4 @@
-Classic Vanilla Ice Cream
+Homemade Vanilla Ice Cream
 ===================================================================
 *Makes 1 quart*
 
@@ -30,7 +30,7 @@ Variations
 ---------------------------------------------------------
 
 ### Chocolate
-#### Ingredients (all the above, plus the following)
+#### Additional Ingredients
 
 * 4oz semi-sweet chocolate chips
 * 3/4 cups sugar (total)
@@ -38,8 +38,20 @@ Variations
 
 #### Directions
 Follow the above directions except:
-* **After Step 4. **: Whisk in cocoa powered (sifted) to the warm milk, then add to egg mixture. Add the chocolate chips to the egg mixture, then continue with cooking the custard.
+* **After Step 4. **: Whisk in cocoa powered (sifted) to the warm milk, then add to egg mixture. Add the chocolate chips to the egg mixture, then continue with cooking the custard.**
 
+
+### Thin Mint
+#### Additional Ingredients
+
+* 1 tsp. mint extract (replace vanilla)
+* 1 tube Thin Mints, broken into chunks
+* *Food Coloring (Optional)*
+
+#### Additional Directions
+* **Step 4:** Mix the mint extract with milk
+* **Step 7:** Add food coloring to make the custard green (use blue and green colors)
+* **Step 12:** Add crushed thin mints to ice before freezing
 
 Notes
 ---------------------------------------------------------
