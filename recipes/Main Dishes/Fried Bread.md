@@ -3,7 +3,7 @@ Fried Bread & Sauce
 
 Ingredients
 ------------------------------------------
-###Bread:
+### Bread:
 
 Large Batch          | Small Batch
 ---------------------|--------------------
@@ -13,32 +13,35 @@ fist full of salt    | 1 teaspoon salt
 3 yeast              | 2 dry yeast
 oil in warm water    | little oil in water
 
-###Sauce:
-* oil
-* fresh garlic
-* celery
-* onion
-* green pepper
-* hot pepper
-* salt and pepper
-* tomato paste
-* Italian seasoning
-* pinch of baking soda
-* parsley flakes
+### Sauce:
+* Oil
+* Fresh Garlic
+* Celery
+* Onion
+* Green Pepper
+* Hot Pepper,
+  * _Optional:_ Usually not included
+* Salt and Pepper
+* Tomato Paste
+* Italian Seasoning
+* Pinch of baking soda
+* Parsley Flakes
 
 
 Directions
 --------------------------------------------------
-###Bread:
+### Bread:
 
-1. Make a well in flour, Knead,
-2. put oil on bread.
-3. Let rise 30-45 minutes.
-4. Roll out, poke with fork.
-5. Fry in hot oil.
+1. Combine salt and flour, make a well
+2. Dissolve yeast in water, add to flour
+3. Knead dough until smooth
+4. Pour oil on bread.
+5. Let rise 30 - 45 minutes.
+6. Roll out, cut into pieces, then poke pieces with fork.
+7. Fry in hot oil.
 
 
-###Sauce:
+### Sauce:
 1. Fry in oil:
     * fresh garlic
     * celery
@@ -48,9 +51,15 @@ Directions
     * salt & pepper
 
 2. Add tomato paste and water
-3. Add Italian seasoning. pinch of baking soda, parsley flakes
+3. Add Italian seasoning, pinch of baking soda, and parsley flakes
+4. Let simmer
+
+Pictures
+---------------------------------------------------------
+![Bread Recipe](./imgs/FriedBread.jpg "Original Bread Recipe")
+![Sauce Recipe](./imgs/FriedBreadSauce.jpg "Original Sauce Recipe")
 
 Notes
 ---------------------------------------------------------
-* Original Author: Liz Livecchi
-* Eaten On Good Friday
+* Original Author: Angie, friend of Jean Smerklo
+* Eaten On Good Friday. It is a little funny because it is so good, but it mostly flour and water.
