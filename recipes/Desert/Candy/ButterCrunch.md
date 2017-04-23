@@ -1,6 +1,14 @@
 Butter Crunch (Easter Candy)
 ============================================
 _Makes 1 cookie sheet_
+
+Ideas
+------------------------------------------------
+* Put the nuts inside the caramel
+* Use a better Chocolate
+* Use less chocolate, maybe only one side
+
+
 Ingredient
 ----------------------------------------------------------
 * 1 lbs. Hershey Chocolate
