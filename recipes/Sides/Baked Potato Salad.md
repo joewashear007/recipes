@@ -16,8 +16,8 @@ Directions
 ---------------------------------------
 1. Wash and poke potatoes. Bake at 350 degrees for about an hour or until fork tender.
 2. Cool and cut the potatoes into bite sized chunks with skin.
-
-  *Note: Potatoes can be cool in fridge which helps with the texture and heating the dairy. not need for hot potatoes*
+  * Potatoes can be cool in fridge which helps with the texture and heating the dairy.
+  * Not need for hot potatoes
 3. Mix mayo and sour cream and add to the potatoes. Add onions, chives, bacon, cheese, Salt and pepper.
 4. Top with extra shredded cheese, bacon, and chives, and serve!
 
