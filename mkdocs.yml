@@ -1,7 +1,7 @@
 site_name: Recipes
-site_url: http://recipes.joesboxoftricks.com/
+site_url: http://recipes.livecchi.cloud
 site_author: Joseph Livecchi
 copyright: Please shares these recipes responsibily, they are not for public sharing
 docs_dir: 'recipes'
-theme: 'material'
-dev_addr: 0.0.0.0:8000
+#theme: 'material'
+#dev_addr: 0.0.0.0:8000
