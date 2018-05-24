@@ -1,7 +1,19 @@
 site_name: Recipes
-site_url: http://recipes.livecchi.cloud
+site_url: https://recipes.livecchi.cloud
 site_author: Joseph Livecchi
 copyright: Please shares these recipes responsibily, they are not for public sharing
 docs_dir: 'recipes'
-theme: 'material'
-#dev_addr: 0.0.0.0:8000
+extra_css:
+  - custom.css
+theme:
+  name: 'material'
+  logo:
+    icon: 'cake'
+
+
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true

@@ -1,6 +1,8 @@
 Snack Mix
 ========================================================
-_Yields about four 1 gallon bags_
+
+!!! note "Yields"
+    About four 1 gallon bags
 
 Ingredient
 ----------------------------------------------------------
