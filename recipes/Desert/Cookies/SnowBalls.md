@@ -1,11 +1,13 @@
 Snowballs
 ======================================
-*Makes about 50 cookies*
+
+!!! note
+Makes about 50 cookies
 
 Ingredient
 ----------------------------------------------------------
-* 1 c. butter
-* 1/2 c. powder sugar
+* 2 c. butter
+* 1 c. powder sugar
 * 4 1/2 c. unsifted flour
 * 1 1/2 c. chopped nuts (pecans)
 * 2 tsp. vanilla
@@ -19,8 +21,13 @@ Directions
 4. Cool on tray about 2 minutes, then roll in powder sugar
 5. Cool on rack. Roll again in powder sugar
 
+Picture
+---------------------------------------------------------
+
+![Original Recipe](./imgs/Snowballs.png)
 
 Notes
 ---------------------------------------------------------
 * Originally From Jean Smerklo
 * Classic Christmas Cookie
+* I think we typically make a half batch
