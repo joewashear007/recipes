@@ -1,7 +1,7 @@
 site_name: Recipes
 site_url: https://recipes.livecchi.cloud
 site_author: Joseph Livecchi
-copyright: Please shares these recipes responsibily, they are not for public sharing
+# copyright: Please shares these recipes responsibily, they are not for public sharing
 docs_dir: 'recipes'
 extra_css:
   - custom.css
