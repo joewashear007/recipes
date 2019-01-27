@@ -11,7 +11,8 @@ Ingredients
 * 1/2 t. cinnamon
 * 1/4 c. cooking oil
 * 1/4 c. honey
-* 1 t. vanilla 
+* 1 t. vanilla
+
 Directions
 ------------------------------------------------------
 
