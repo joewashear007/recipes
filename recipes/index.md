@@ -13,10 +13,12 @@ How to use this site:
 Basic Conversions
 -----------------------------------------------------
 
-!!! note
-### All You Really Need To Know About Converting Fresh Herbs to Dry Herbs
-* The general rule for *dried “flaky” herbs* like dried cilantro or dried tarragon is **3 to 1** or three parts fresh to one part dried. 
-* If you are working with *dried ground herbs* like ground ginger which is going to be even more potent than the dried flaky herbs, the general ratio is **4 to 1** or four parts fresh to one part dried.
+!!! tip "All You Really Need To Know About Converting Fresh Herbs to Dry Herbs"
+    * The general rule for *dried “flaky” herbs* like dried cilantro or dried tarragon is **3 to 1** or three parts fresh to one part dried.
+    * If you are working with *dried ground herbs* like ground ginger which is going to be even more potent than the dried flaky herbs, the general ratio is **4 to 1** or four parts fresh to one part dried.
+
+
+### Conversion Table
 
 
 | Herb           | Fresh                          | Corresponding Dried     |
