@@ -1,11 +1,11 @@
-Flank  Steak Marinade
+Flank Steak Marinade
 ======================================================
 
 Ingredients
 ------------------------------------------------------
 
 * 1/2 c. Soy Sauce
-* 3 Tbsp. Choppped Rosemary
+* 3 Tbsp. Fresh Choppped Rosemary (3 tsp. dried)
 * 6 Cloves Garlic, minced
 * 4 1/2 Tbsp. Honey
 * 1/2 c. Olive Oil
@@ -16,6 +16,7 @@ Directions
 ------------------------------------------------------
 
 1. Mix all the ingedinets
+1. If needed, add water to cover meat.
 
 Pictures
 -----------------------------------------------------
