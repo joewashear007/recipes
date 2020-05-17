@@ -33,8 +33,8 @@ Directions
 
 Pictures
 -------------------------------------------------
-![Original Recipe, part 1](.\imgs\CornedBeef1.jpg "Original Recipe, part 1")
-![Original Recipe, part 2](.\imgs\CornedBeef2.jpg "Original Recipe, part 2")
+![Original Recipe, part 1](./imgs/CornedBeef1.jpg "Original Recipe, part 1")
+![Original Recipe, part 2](./imgs/CornedBeef2.jpg "Original Recipe, part 2")
 
 Notes
 ---------------------------------------------------------

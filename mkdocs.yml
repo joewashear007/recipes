@@ -1,15 +1,15 @@
 site_name: Recipes
 site_url: https://recipes.livecchi.cloud
 site_author: Joseph Livecchi
-# copyright: Please shares these recipes responsibily, they are not for public sharing
-docs_dir: 'recipes'
 extra_css:
   - custom.css
 theme:
   name: 'material'
-  logo:
-    icon: 'cake'
+  logo: 'imgs/cake-variant.png'
+  favicon: 'imgs/favicon.png'
 
+repo_name: joewashear007/recipes
+repo_url: https://bitbucket.org/joewashear007/recipes
 
 markdown_extensions:
   - admonition
