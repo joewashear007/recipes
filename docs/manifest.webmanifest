@@ -1,0 +1,22 @@
+{
+  "short_name": "Recipes",
+  "name": "Livecchi Family Recipes",
+  "description": "A collection of Personal Recipes",
+  "icons": [
+    {
+      "src": "/imgs/icons-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/imgs/icons-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/?source=pwa",
+  "background_color": "#4051b5",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#4051b5"
+}
