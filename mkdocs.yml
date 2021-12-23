@@ -11,8 +11,7 @@ theme:
     - instant
 
 repo_name: joewashear007/recipes
-repo_url: https://bitbucket.org/joewashear007/recipes
-edit_uri: src/master/docs/
+repo_url: https://github.com/joewashear007/recipes
 
 markdown_extensions:
   - admonition
