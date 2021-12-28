@@ -29,8 +29,8 @@ Variations
 
 Pictures
 -------------------------------------------------
-![Original Recipe Part 1](./imgs/MashedPotato-1.jpg "Original Recipe Part 1")
-![Original Recipe Part 2](./imgs/MashedPotato-2.jpg "Original Recipe Part 2")
+![Original Recipe Part 1](./imgs/mashed_potato-1.jpg "Original Recipe Part 1")
+![Original Recipe Part 2](./imgs/mashed_potato-2.jpg "Original Recipe Part 2")
 
 Notes:
 --------------------------------

@@ -27,7 +27,7 @@ Directions
 
 Pictures
 ----------------------------------------------------
-![Original Recipe](./imgs/ChocolateCake.jpg "Original Recipe")
+![Original Recipe](./imgs/chocolate_cake.jpg "Original Recipe")
 
 Notes
 ---------------------------------------------------------

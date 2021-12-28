@@ -21,4 +21,4 @@ Directions
 Pictures
 -----------------------------------------------------
 
-![Original Recipe](./imgs/flanksteakmarinade.jpg)
+![Original Recipe](./imgs/flank_steak_marinade.jpg)

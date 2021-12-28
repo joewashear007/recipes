@@ -28,7 +28,7 @@ Directions
 
 Pictures
 ----------------------------------------------------
-![Original Recipes](./imgs/meatymanicotti.jpg "Original Recipes")
+![Original Recipes](./imgs/meaty_manicotti.jpg "Original Recipes")
 
 Notes
 ---------------------------------------------------------

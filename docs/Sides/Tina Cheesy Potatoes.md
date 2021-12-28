@@ -22,7 +22,7 @@ Directions
 
 Pictures
 -------------------------------------------------
-![Original Recipe](./imgs/TinaCheesePotatoes.png "Original Recipe")
+![Original Recipe](./imgs/tina_cheese_potatoes.png "Original Recipe")
 
 Notes
 -------------------------------------------------

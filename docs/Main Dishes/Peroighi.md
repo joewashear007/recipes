@@ -52,8 +52,8 @@ Directions
 
 Pictures
 ----------------------------------------------------
-![Original Recipes 1](./imgs/peroighi1.jpg "Original Recipes 1")
-![Original Recipes 2](./imgs/peroighi2.jpg "Original Recipes 2")
+![Original Recipes 1](./imgs/peroighi-1.jpg "Original Recipes 1")
+![Original Recipes 2](./imgs/peroighi-2.jpg "Original Recipes 2")
 
 Notes
 ---------------------------------------------------------

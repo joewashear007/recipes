@@ -21,7 +21,7 @@ Directions
 
 Pictures
 -------------------------------------------------
-![Original Recipe](./imgs/VolcanoPancake.jpg "Original Recipe")
+![Original Recipe](./imgs/volcano_pancake.jpg "Original Recipe")
 
 Notes:
 --------------------------------

@@ -28,5 +28,5 @@ Directions
 
 Pictures
 --------------------------------------------------
-![Original Recipe 1](./imgs/snickerDoodle-1.jpg)
-![Original Recipe 2](./imgs/snickerDoodle-2.jpg)
+![Original Recipe 1](./imgs/snicker_doodle-1.jpg)
+![Original Recipe 2](./imgs/snicker_doodle-2.jpg)

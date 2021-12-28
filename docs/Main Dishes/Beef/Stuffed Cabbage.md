@@ -43,7 +43,7 @@ Directions
 
 Pictures
 ----------------------------------------------
-![recipe](./imgs/StuffedCabbage.jpg "Original Recipe")
+![recipe](./imgs/stuffed_cabbage.jpg "Original Recipe")
 
 Notes
 -------------------------------------------------

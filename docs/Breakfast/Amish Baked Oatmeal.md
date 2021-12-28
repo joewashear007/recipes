@@ -23,4 +23,4 @@ Directions
 
 Pictures
 -----------------------------------------------------
-![Original Recipe](./imgs/AmishBakedOatmeal.jpg)
+![Original Recipe](./imgs/amish_baked_oatmeal.jpg)

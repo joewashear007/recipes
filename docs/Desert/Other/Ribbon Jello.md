@@ -23,5 +23,5 @@ Directions
 
 Pictures
 --------------------------------------------------
-![Original Recipe 1](./imgs/ribbonJello-1.jpg)
-![Original Recipe 2](./imgs/ribbonJello-2.jpg)
+![Original Recipe 1](./imgs/ribbon_jello-1.jpg)
+![Original Recipe 2](./imgs/ribbon_jello-2.jpg)

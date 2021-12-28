@@ -56,8 +56,8 @@ Directions
 
 Pictures
 ---------------------------------------------------------
-![Bread Recipe](./imgs/FriedBread.jpg "Original Bread Recipe")
-![Sauce Recipe](./imgs/FriedBreadSauce.jpg "Original Sauce Recipe")
+![Bread Recipe](./imgs/fried_bread.jpg "Original Bread Recipe")
+![Sauce Recipe](./imgs/fried_bread_sauce.jpg "Original Sauce Recipe")
 
 Notes
 ---------------------------------------------------------

@@ -35,5 +35,5 @@ Directions (Frosting)
 
 Pictures
 ----------------------------------------------------
-![Original Recipe](./imgs/CarrotCake.jpg "Original Recipe")
+![Original Recipe](./imgs/carrot_cake.jpg "Original Recipe")
 

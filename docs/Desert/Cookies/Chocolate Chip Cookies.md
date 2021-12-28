@@ -29,7 +29,7 @@ Directions
 
 Pictures
 -------------------------------------------------
-![Original Recipe, Part 1](./imgs/ChocolateChipCookies1.jpg "Original Recipe, Part 1")
-![Original Recipe, Part 2](./imgs/ChocolateChipCookies2.jpg "Original Recipe, Part 2")
+![Original Recipe, Part 1](./imgs/chocolate_chip_cookies-1.jpg "Original Recipe, Part 1")
+![Original Recipe, Part 2](./imgs/chocolate_chip_cookies-2.jpg "Original Recipe, Part 2")
 
 

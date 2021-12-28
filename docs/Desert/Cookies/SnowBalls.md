@@ -24,7 +24,7 @@ Directions
 Picture
 ---------------------------------------------------------
 
-![Original Recipe](./imgs/Snowballs.png)
+![Original Recipe](./imgs/snowballs.png)
 
 Notes
 ---------------------------------------------------------

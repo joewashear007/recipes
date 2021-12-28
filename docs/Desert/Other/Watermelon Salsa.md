@@ -22,7 +22,7 @@ Directions
 
 Pictures
 ---------------------------------------------
-![Original Recipe](./imgs/watermelonSalsa.jpg)
+![Original Recipe](./imgs/watermelon_salsa.jpg)
 
 Notes
 ----------------------------------------------

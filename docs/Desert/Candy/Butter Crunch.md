@@ -35,7 +35,7 @@ Directions
 
 Pictures
 -----------------------------------------------
-![Original Recipe](./imgs/ButterCrunch.jpg "Original Recipe")
+![Original Recipe](./imgs/butter_crunch.jpg "Original Recipe")
 
 Notes
 ---------------------------------------------------------

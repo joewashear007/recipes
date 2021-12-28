@@ -32,8 +32,8 @@ Nutritional Information
 
 Pictures
 -------------------------------------------------
-![Original Recipe, Part 1](./imgs/ZucchiniBread1.jpg "Original Recipe, Part 1")
-![Original Recipe, Part 2](./imgs/ZucchiniBread2.jpg "Original Recipe, Part 2")
+![Original Recipe, Part 1](./imgs/zucchini_bread-1.jpg "Original Recipe, Part 1")
+![Original Recipe, Part 2](./imgs/zucchini_bread-2.jpg "Original Recipe, Part 2")
 
 Notes:
 --------------------------------

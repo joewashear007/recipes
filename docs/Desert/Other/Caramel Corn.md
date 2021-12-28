@@ -23,7 +23,7 @@ Directions
 
 Pictures
 -------------------------------------------------
-![Original Recipe, Part 1](./imgs/CaramelCorn1.jpg "Original Recipe, Part 1")
-![Original Recipe, Part 2](./imgs/CaramelCorn2.jpg "Original Recipe, Part 2")
+![Original Recipe, Part 1](./imgs/caramel_corn-1.jpg "Original Recipe, Part 1")
+![Original Recipe, Part 2](./imgs/caramel_corn-2.jpg "Original Recipe, Part 2")
 
 

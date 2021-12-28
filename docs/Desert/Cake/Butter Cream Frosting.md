@@ -18,7 +18,7 @@ Directions
 
 Pictures
 -----------------------------------------------
-![Oringal Recipe](./imgs/ButterCreamFrosting.png "Original Recipe")
+![Oringal Recipe](./imgs/butter_cream_frosting.png "Original Recipe")
 
 Notes
 ---------------------------------------------------------

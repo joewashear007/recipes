@@ -19,7 +19,7 @@ Directions
 
 Pictures
 -------------------------------------------------
-![Original Recipe](./imgs/CriscoPieCrust.jpg "Original Recipe")
+![Original Recipe](./imgs/crisco_pie_crust.jpg "Original Recipe")
 
 Notes
 ---------------------------------------------------------
